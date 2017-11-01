@@ -1,3 +1,4 @@
+- { colors: '#F1F3F5,#DAD8DA,#D3DFE3,#303030,#C2E2ED,#303030,#1682FB,#34C749', name: 'A Similar to macOS' }
 - { colors: '#4D394B,#3E313C,#4C9689,#FFFFFF,#3E313C,#FFFFFF,#38978D,#EB4D5C', name: 'Aubergine' }
 - { colors: '#1d1d1d,#000000,#0ba8ca,#FFFFFF,#075566,#FFFFFF,#0ba8ca,#EB4D5C', name: 'B-MIND' }
 - { colors: '#181818,#585858,#7cafc2,#f8f8f8,#b8b8b8,#f8f8f8,#f7ca88,#ab4642', name: 'Base16 Default Dark' }
